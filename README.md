@@ -25,7 +25,7 @@ An online co-op survival prototype with:
 - Custom inventory  
 - Enemy AI using NavMesh  
 - Basic combat  
-➡️ See repository for more details.
+➡️ See (repository)[https://github.com/Shadowcraft006/Noctura] for more details.
 
 ### 🔢 Beltmatic Calculator Tool
 Standalone helper tool for finding the shortest calculation path in the game “Beltmatic”.  
